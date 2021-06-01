@@ -14,4 +14,4 @@ Created to learn [.NET Framework](https://dotnet.microsoft.com/download/dotnet-f
 
 # Technology
 
-Written in C# using Visual Studio 2019.
+Written in C# using .NET Framework.
